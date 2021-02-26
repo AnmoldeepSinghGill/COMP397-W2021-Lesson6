@@ -647,7 +647,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 1
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -666,11 +666,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ce368419-4cc8-46c3-a147-53070991bafa
+  cloudProjectId: 03a12a4b-cea2-43af-a4fb-45a557d6d832
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: COMP397-W2021-Lesson4a
-  organizationId: centennial-college
+  projectName: COMP397-W2021-Lesson6
+  organizationId: acemaster_2k
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
